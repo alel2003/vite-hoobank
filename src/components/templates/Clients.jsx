@@ -1,4 +1,3 @@
-import React from 'react'
 import ClientsLogo from '../ui/ClientsLogo'
 import {clients} from '../../constants'
 

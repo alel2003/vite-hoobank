@@ -4,9 +4,8 @@ import TextBlock from '../ui/TextBlock'
 import { features } from '../../constants'
 
 const Business = () => {
-
   return (
-    <section className='grid md:grid-cols-2 grid-cols-1 md:gap-x-[40px] gap-y-[15px] md:pt-[180px] mb:pd-[80px] pt-[70px] pb-[40px]'>
+    <section name="product" className='grid md:grid-cols-2 grid-cols-1 md:gap-x-[40px] gap-y-[15px] md:pt-[180px] mb:pd-[80px] pt-[70px] pb-[40px]'>
       <div>
         <TextBlock 
         title='You do the business, we’ll handle the money.'

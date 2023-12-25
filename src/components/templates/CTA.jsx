@@ -1,4 +1,3 @@
-import React from 'react'
 import TextBlock from '../ui/TextBlock'
 import ButtonGet from '../ui/ButtonGet'
 

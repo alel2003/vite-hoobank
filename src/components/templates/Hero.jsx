@@ -1,11 +1,10 @@
-import React from 'react'
 import styles from '../../style';
 import { discount, robotHand, cardOne } from "../../assets";
 import Button from "../ui/Button";
 
 const Hero = () => {
   return (
-    <section 
+    <section name="home"
     className={`grid md:grid-cols-2 grid-cols-1 sm:pt-[200px] sm:pb-[100px] pb-[30px] pt-[50px] px-6 sm:gap-x-[5px] gap-y-[5px]`}
     id='home'>
       <div className={`flex ${styles.flexStart} flex-col`}>
